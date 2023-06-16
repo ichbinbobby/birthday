@@ -37,6 +37,9 @@ yarn dev
 Build the application for production:
 
 ```bash
+# npx
+npx nuxi generate
+
 # npm
 npm run build
 
@@ -61,3 +64,17 @@ yarn preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## Deployment to Webspace
+
+### Connect via sftp.exe on windows
+
+sftp.exe masterid@ssh.strato.de
+
+### Change directory
+
+cd birthday
+
+### Upload current directory and all of its contents
+
+put -r .
