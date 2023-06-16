@@ -13,10 +13,12 @@
     "@nuxt/devtools": "latest",
     "@types/node": "^20",
     "eslint": "^8.42.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-vue": "^9.14.1",
     "nuxt": "^3.5.3"
   },
   "dependencies": {
-    "vuetify": "^3.3.3"
+    "vuetify": "^3.3.4"
   }
 }
