@@ -5,9 +5,9 @@
       <v-container fill-height>
         <v-card
           class="text-center d-flex"
-          color="primary"
           elevation="0"
           min-height="500"
+          :style="{ backgroundImage: `url(${cardImage})` }"
         >
           <v-row
             align="center"
@@ -17,12 +17,25 @@
 
             <v-col cols="6">
               <span class="text-lg-h1 text-md-h1 text-sm-h2 text-xs-h2 pa-2">
-                Happy Birthday
+                Dirty Thirty
               </span>
 
               <div class="text-lg-h5 text-md-h5 text-sm-h6 text-xs-h6 pa-2">
-                Ich brauche keine materiellen Dinge, aber hier sind ein paar
-                Optionen, falls ihr etwas tun möchtet.
+                Samstag 24.06 ab 14 Uhr auf dem
+                <a
+                  href="https://goo.gl/maps/YNhGsEjYxDbQ1Jvq5"
+                  target="_blank"
+                  rel="noopener"
+                  class="text-decoration-underline"
+                >
+                  Grillplatz im Monbijoupark
+                </a>
+              </div>
+
+              <div class="text-lg-h5 text-md-h5 text-sm-h6 text-xs-h6 pa-2">
+                Bringt Essen und Trinken mit, auf das ihr Lust habt. Ich brauche
+                keine materiellen Geschenke, aber hier sind ein paar Optionen,
+                falls ihr etwas tun möchtet.
               </div>
             </v-col>
 
@@ -72,8 +85,10 @@ import referals from "./referals";
 export default {
   data() {
     return {
-      cardColor: "deep-purple-lighten-4",
+      cardColor: "red-lighten-5",
       cardHeight: 300,
+      cardImage:
+        "https://lh3.googleusercontent.com/2OrUzHCRSI-V46Z1qJBh90usG6OkKwCbXN80FbrjkWoQz4VfoJjNAoQHLHPQRZWH7dI_m5I1gi48h6xMJ5pK6kkdXmUnXPe4VqwvEdo4QeWRjLV9Oew=w2400-rj",
       imgWidth: 128,
       referals: referals,
     };
@@ -88,6 +103,16 @@ export default {
 </script>
 
 <style>
+a {
+  color: black;
+  text-decoration: none; /* no underline */
+}
+
+.card-image {
+  background-size: cover;
+  background-position: center center;
+}
+
 .text-wrap {
   word-wrap: break-word;
 }
