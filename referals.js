@@ -29,6 +29,12 @@ const referals = [
     text: "Das ist auch was für dich! Nimm meine persönliche Einladung für ein 30-tägiges Probeabo an, damit wir zusammen lernen können.",
     title: "Sprachenlernen",
   },
+  {
+    img: "https://play-lh.googleusercontent.com/mYaCLnYqJ0-vm1Jxuf1YdRc0JG7ZJ-dvx1tcWAIKEHcp_HORniqBqthRd8a1QQzMFVU",
+    link: "https://www.aok.de/pk/nordost/mwm/da99334ef0f649344ab0d60108703f4d/",
+    text: "Meine Krankenkasse die AOK Nordost hat viele Zusatzleistungen. Ich empfehle dir deshalb einen Wechsel, den du ganz einfach und schnell online machen kannst.",
+    title: "Krankenversicherung",
+  },
 ];
 
 export default referals;
