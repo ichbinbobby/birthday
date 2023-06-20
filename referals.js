@@ -23,6 +23,12 @@ const referals = [
     text: "Du und ich - lass uns gemeinsam Klima und Umwelt schützen! Mit echter Öko-Energie können wir jede Menge CO2 sparen und die Energiewende ordentlich voranbringen.",
     title: "Ökostrom",
   },
+  {
+    img: "https://play-lh.googleusercontent.com/Egp-GTOp0CMBeS6eRVEQO6bLYdfklzGxCYSkr7aZynbzr2AJSZpF9s05_6ppj8vwq7I",
+    link: "https://app.busuu.com/u7oevWFftUXA5yeCA",
+    text: "Das ist auch was für dich! Nimm meine persönliche Einladung für ein 30-tägiges Probeabo an, damit wir zusammen lernen können.",
+    title: "Sprachenlernen",
+  },
 ];
 
 export default referals;
