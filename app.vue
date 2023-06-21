@@ -62,7 +62,7 @@
                 <v-img
                   :width="imgWidth"
                   :src="item.img"
-                  class="pt-4 pl-4"
+                  class="pt-4 pl-4 app-img"
                 />
 
                 <v-card-title> {{ item.title }} </v-card-title>
@@ -115,5 +115,10 @@ a {
 
 .text-wrap {
   word-wrap: break-word;
+}
+
+.app-img > .v-img__img {
+  border-radius: 20%;
+  background-color: white;
 }
 </style>
