@@ -35,6 +35,12 @@ const referals = [
     text: "Meine Krankenkasse die AOK Nordost hat viele Zusatzleistungen. Ich empfehle dir deshalb einen Wechsel, den du ganz einfach und schnell online machen kannst.",
     title: "Krankenversicherung",
   },
+  {
+    img: "https://play-lh.googleusercontent.com/_rjJMrwVIYguXqdpHcgQP75l7yczDtcGrYae801yEJ1Id0moe0epGBLaiq2ZojixrDE",
+    link: "https://apps.apple.com/at/app/id1517055351",
+    text: "Bei der Registrierung in der Subway® App den Angebotscode X-BT8BNAA einzugeben. Beim ersten Kauf mit deinen QR-Code erhältst du einen extra Bonus von 200 Punkten!",
+    title: "Subway App",
+  },
 ];
 
 export default referals;

@@ -17,11 +17,11 @@
 
             <v-col cols="6">
               <span class="text-lg-h1 text-md-h1 text-sm-h2 text-xs-h2 pa-2">
-                Dirty Thirty
+                We're hungry, because we're alive.
               </span>
 
               <div class="text-lg-h5 text-md-h5 text-sm-h6 text-xs-h6 pa-2">
-                Samstag 24.06 ab 14 Uhr auf dem
+                Irgendwann treffen wir uns wieder im
                 <a
                   href="https://goo.gl/maps/YNhGsEjYxDbQ1Jvq5"
                   target="_blank"
