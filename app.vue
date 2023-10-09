@@ -9,10 +9,7 @@
           min-height="500"
           :style="{ backgroundImage: `url(${cardImage})` }"
         >
-          <v-row
-            align="center"
-            no-gutters
-          >
+          <v-row align="center" no-gutters>
             <v-col />
 
             <v-col cols="6">
@@ -62,7 +59,7 @@
                 <v-img
                   :width="imgWidth"
                   :src="item.img"
-                  class="pt-4 pl-4 app-img"
+                  class="mt-4 ml-4 app-img"
                 />
 
                 <v-card-title> {{ item.title }} </v-card-title>

@@ -12,13 +12,13 @@
     "@invictus.codes/nuxt-vuetify": "^0.2.23",
     "@nuxt/devtools": "latest",
     "@types/node": "^20",
-    "eslint": "^8.44.0",
+    "eslint": "^8.51.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "eslint-plugin-vue": "^9.15.1",
-    "nuxt": "^3.6.1"
+    "eslint-plugin-vue": "^9.17.0",
+    "nuxt": "^3.7.4"
   },
   "dependencies": {
-    "vuetify": "^3.3.6"
+    "vuetify": "^3.3.20"
   }
 }
