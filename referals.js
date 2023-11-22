@@ -41,6 +41,18 @@ const referals = [
     text: "Bei der Registrierung in der Subway® App den Angebotscode X-BT8BNAA einzugeben. Beim ersten Kauf mit deinen QR-Code erhältst du einen extra Bonus von 200 Punkten!",
     title: "Subway App",
   },
+  {
+    img: "https://play-lh.googleusercontent.com/7iDtTkpbsUCeeJHJDs2neN1E2owtxYAdyEk6oGUfAVAXpgJI01e6hFlhtx0TVXbXBA=w240-h480",
+    link: "https://s.klook.com/c/vw7Vd75jXW",
+    text: "Entdecken und buchen Sie erstaunliche Reise- und Freizeiterlebnisse vor Ort mit Klook. Finden Sie kuratierte Aktivitäten und unterhaltsame Aktivitäten mit exklusiven Rabatten.",
+    title: "Klook Travel",
+  },
+  {
+    img: "https://play-lh.googleusercontent.com/EAU9Ed_wJ7p86twBBEUvKChvVwj_cOM-MahgGKt0m-yHf_F5oHwvu6lVzX69JpXjKMA",
+    link: "https://ref.airalo.com/JSgw",
+    text: "Erhalten Sie 3 US$ Rabatt auf Ihr erstes eSIM-Datenpaket von Airalo. Verwenden Sie den Code THANHB5076, wenn Sie sich anmelden oder wenden Sie ihn an der Kasse an.",
+    title: "eSIM Travel & Internet",
+  },
 ];
 
 export default referals;
