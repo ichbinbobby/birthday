@@ -48,12 +48,6 @@ const referals = [
     title: "Sprachenlernen",
   },
   {
-    img: "https://play-lh.googleusercontent.com/_rjJMrwVIYguXqdpHcgQP75l7yczDtcGrYae801yEJ1Id0moe0epGBLaiq2ZojixrDE",
-    link: "https://apps.apple.com/at/app/id1517055351",
-    text: "Bei der Registrierung in der Subway® App den Angebotscode X-BT8BNAA einzugeben. Beim ersten Kauf mit deinen QR-Code erhältst du einen extra Bonus von 200 Punkten!",
-    title: "Subway App",
-  },
-  {
     img: "https://play-lh.googleusercontent.com/7iDtTkpbsUCeeJHJDs2neN1E2owtxYAdyEk6oGUfAVAXpgJI01e6hFlhtx0TVXbXBA=w240-h480",
     link: "https://s.klook.com/c/vw7Vd75jXW",
     text: "Entdecken und buchen Sie erstaunliche Reise- und Freizeiterlebnisse vor Ort mit Klook. Finden Sie kuratierte Aktivitäten und unterhaltsame Aktivitäten mit exklusiven Rabatten.",
