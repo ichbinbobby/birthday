@@ -6,7 +6,7 @@ const referals = [
     title: "Nachhaltiges Konto",
   },
   {
-    img: "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/313253358_613983050491177_6499488846423148508_n.png?_nc_cat=101&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=3tO-gSYjQV8AX_wMd7m&_nc_ht=scontent-ber1-1.xx&oh=00_AfDT83-r9jFctj7jQ-GI8T47u4pwy7qlnDqkJg7Xih8skg&oe=65EB2962",
+    img: "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/313253358_613983050491177_6499488846423148508_n.png?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=u-dIdHDuojUQ7kNvgHom31z&_nc_ht=scontent-ber1-1.xx&oh=00_AfAVWbuk9iYt6Ur4XKrLi1op8nd6HL8Q2KI0Ko_sfgKBZw&oe=6642D522",
     link: "https://banking.umweltbank.de/kontoeroeffnung-umweltflexkonto.html?werberId=MTAwNjkzMw==",
     text: "Ob Festgeld, Tagesgeld oder Fonds - bei der UmweltBank macht Ihr Geld grün. Nachhaltige Produkte sind für uns kein Trend, sondern sind seit jeher unser Geschäftsmodell.",
     title: "Nachhaltig Anlegen",
@@ -16,6 +16,12 @@ const referals = [
     link: "https://links.naturstrom.de/ko9h",
     text: "Du und ich - lass uns gemeinsam Klima und Umwelt schützen! Mit echter Öko-Energie können wir jede Menge CO2 sparen und die Energiewende ordentlich voranbringen.",
     title: "Ökostrom",
+  },
+  {
+    img: "https://m.media-amazon.com/images/S/stores-image-uploads-eu-prod/6/AmazonStores/A1PA6795UKMFR9/5f9dd41acffb53b37be84b98a3998469.w4011.h3715.png",
+    link: "https://prz.io/KrOaq9rsY",
+    text: "Effektive Mundpflege & modernes Design von happybrush. 20% auf deinen ersten Einkauf. Nachhaltige elektrische Schallzahnbürsten und Vegane Zahnpasta.",
+    title: "Zahnpflege",
   },
   {
     img: "https://play-lh.googleusercontent.com/mYaCLnYqJ0-vm1Jxuf1YdRc0JG7ZJ-dvx1tcWAIKEHcp_HORniqBqthRd8a1QQzMFVU",
@@ -58,6 +64,12 @@ const referals = [
     link: "https://ref.airalo.com/JSgw",
     text: "Erhalten Sie 3 US$ Rabatt auf Ihr erstes eSIM-Datenpaket von Airalo. Verwenden Sie den Code THANHB5076, wenn Sie sich anmelden oder wenden Sie ihn an der Kasse an.",
     title: "eSIM Travel & Internet",
+  },
+  {
+    img: "https://play-lh.googleusercontent.com/5Zkj-vrKHBauMF4srwktsFPPYQqTHA2Tlc8fZLPDyvgAEk2hhGfkNsKSnJZLNvIRHQ",
+    link: "https://de.omio.com/refer-a-friend?ic=thanhn7k6f1r",
+    text: "Mit Omio kannst du Tickets für deine nächste Reise buchen. Melde dich mit meinem Empfehlungs-Link an und wir erhalten beide einen Rabatt von 10 € auf unsere nächste Buchung!",
+    title: "Omio: Bahn, Bus, Flüge, Fähre",
   },
 ];
 
