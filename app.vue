@@ -18,23 +18,27 @@
               </span>
 
               <div class="text-lg-h5 text-md-h5 text-sm-h6 text-xs-h6 pa-2">
-                Am Samstag den 22.06 feiere ich meinen Geburtstag und ihr seit
-                herzlich eingeladen. Nebenbei ist auch Feurigel Community Day
-                Classic.<br />
-                <a
-                  href="https://goo.gl/maps/YNhGsEjYxDbQ1Jvq5"
-                  target="_blank"
-                  rel="noopener"
-                  class="text-decoration-underline"
-                >
-                  Grillplatz im Monbijoupark
-                </a>
+                Am Samstag den 22.06 ab 14 Uhr feiere ich meinen Geburtstag und
+                ihr seit herzlich eingeladen. Nebenbei ist auch Feurigel
+                Community Day Classic.
               </div>
 
+              <a
+                href="https://goo.gl/maps/YNhGsEjYxDbQ1Jvq5"
+                target="_blank"
+                rel="noopener"
+              >
+                <v-btn prepend-icon="mdi-map-marker" variant="outlined">
+                  <template v-slot:prepend>
+                    <v-icon></v-icon>
+                  </template>
+                  Grillplatz im Monbijoupark
+                </v-btn>
+              </a>
+
               <div class="text-lg-h5 text-md-h5 text-sm-h6 text-xs-h6 pa-2">
-                Bringt Essen und Trinken auf das ihr Lust habt mit. Ich brauche
-                keine materiellen Geschenke, aber hier sind ein paar Optionen,
-                falls ihr etwas tun möchtet.
+                Bringt Essen und Trinken mit. Decken, Spiele und Hunde sind auch
+                gern gesehen.
               </div>
             </v-col>
 
