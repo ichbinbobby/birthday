@@ -70,7 +70,7 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 ```bash
 # Connect via sftp.exe on windows while being in generated /.output/public
 
-sftp.exe masterid@ssh.strato.de
+sftp.exe masterid.swh.strato-hosting.eu@ssh.strato.de
 
 # Change directory
 

@@ -14,11 +14,13 @@
 
             <v-col cols="6">
               <span class="text-lg-h1 text-md-h1 text-sm-h2 text-xs-h2 pa-2">
-                We're hungry, because we're alive.
+                ボビーの<br />誕生日会
               </span>
 
               <div class="text-lg-h5 text-md-h5 text-sm-h6 text-xs-h6 pa-2">
-                Irgendwann treffen wir uns wieder im
+                Am Samstag den 22.06 feiere ich meinen Geburtstag und ihr seit
+                herzlich eingeladen. Nebenbei ist auch Feurigel Community Day
+                Classic.<br />
                 <a
                   href="https://goo.gl/maps/YNhGsEjYxDbQ1Jvq5"
                   target="_blank"
@@ -30,7 +32,7 @@
               </div>
 
               <div class="text-lg-h5 text-md-h5 text-sm-h6 text-xs-h6 pa-2">
-                Bringt Essen und Trinken mit, auf das ihr Lust habt. Ich brauche
+                Bringt Essen und Trinken auf das ihr Lust habt mit. Ich brauche
                 keine materiellen Geschenke, aber hier sind ein paar Optionen,
                 falls ihr etwas tun möchtet.
               </div>
@@ -83,7 +85,7 @@ export default {
   data() {
     return {
       cardColor: "red-lighten-5",
-      cardHeight: 300,
+      cardHeight: 350,
       cardImage:
         "https://lh3.googleusercontent.com/2OrUzHCRSI-V46Z1qJBh90usG6OkKwCbXN80FbrjkWoQz4VfoJjNAoQHLHPQRZWH7dI_m5I1gi48h6xMJ5pK6kkdXmUnXPe4VqwvEdo4QeWRjLV9Oew=w2400-rj",
       imgWidth: 128,

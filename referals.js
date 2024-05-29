@@ -6,7 +6,7 @@ const referals = [
     title: "Nachhaltiges Konto",
   },
   {
-    img: "https://scontent-ber1-1.xx.fbcdn.net/v/t39.30808-6/313253358_613983050491177_6499488846423148508_n.png?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=u-dIdHDuojUQ7kNvgHom31z&_nc_ht=scontent-ber1-1.xx&oh=00_AfAVWbuk9iYt6Ur4XKrLi1op8nd6HL8Q2KI0Ko_sfgKBZw&oe=6642D522",
+    img: "https://play-lh.googleusercontent.com/lvioTO4ssiXrAYGmkA9Tt390Wxm2_1yqMFFn8Nc_dTP3E43K9Ol2poyHYG69ahzNDNc=w240-h480-rw",
     link: "https://banking.umweltbank.de/kontoeroeffnung-umweltflexkonto.html?werberId=MTAwNjkzMw==",
     text: "Ob Festgeld, Tagesgeld oder Fonds - bei der UmweltBank macht Ihr Geld grün. Nachhaltige Produkte sind für uns kein Trend, sondern sind seit jeher unser Geschäftsmodell.",
     title: "Nachhaltig Anlegen",
