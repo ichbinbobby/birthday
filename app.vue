@@ -9,12 +9,15 @@
           min-height="500"
           :style="{ backgroundImage: `url(${cardImage})` }"
         >
-          <v-row align="center" no-gutters>
+          <v-row
+            align="center"
+            no-gutters
+          >
             <v-col />
 
             <v-col cols="6">
               <span class="text-lg-h1 text-md-h1 text-sm-h2 text-xs-h2 pa-2">
-                ボビーの<br />誕生日会
+                ボビーの<br>誕生日会
               </span>
 
               <div class="text-lg-h5 text-md-h5 text-sm-h6 text-xs-h6 pa-2">
@@ -28,11 +31,17 @@
                 target="_blank"
                 rel="noopener"
               >
-                <v-btn prepend-icon="mdi-map-marker" variant="outlined">
-                  <template v-slot:prepend>
-                    <v-icon></v-icon>
+                <v-btn
+                  prepend-icon="mdi-map-marker"
+                  variant="outlined"
+                >
+                  <template #prepend>
+                    <v-icon />
                   </template>
-                  Grillplatz im Monbijoupark
+
+                  <span class="text-lg-button text-md-button text-sm-button text-xs-button">
+                    Monbijoupark
+                  </span>
                 </v-btn>
               </a>
 
