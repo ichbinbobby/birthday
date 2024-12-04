@@ -18,6 +18,12 @@ const referals = [
     title: "Ökostrom",
   },
   {
+    img: "https://www.crowddepot.com/wp-content/uploads/2022/04/wiwin_Logo.png",
+    link: "https://wiwin.de",
+    text: "WIWIN, die Plattform für nachhaltige Investitionen mit Schwerpunkt auf Crowdinvesting. Hier hat jede Investition einen geprüften nachhaltigen Impact. WELCOME#50*",
+    title: "Investieren",
+  },
+  {
     img: "https://m.media-amazon.com/images/S/stores-image-uploads-eu-prod/6/AmazonStores/A1PA6795UKMFR9/5f9dd41acffb53b37be84b98a3998469.w4011.h3715.png",
     link: "https://prz.io/KrOaq9rsY",
     text: "Effektive Mundpflege & modernes Design von happybrush. 20% auf deinen ersten Einkauf. Nachhaltige elektrische Schallzahnbürsten und Vegane Zahnpasta.",
