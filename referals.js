@@ -13,7 +13,7 @@ const referals = [
   },
   {
     img: "https://play-lh.googleusercontent.com/NBrwyY63S8sZKMBdng1JlYDcuwtBGey0HH_2TAZUDkB_2YEdT6K9xdxokq2ig8-RjQ",
-    link: "https://links.naturstrom.de/ko9h",
+    link: "https://links.naturstrom.de/kvgu",
     text: "Du und ich - lass uns gemeinsam Klima und Umwelt schützen! Mit echter Öko-Energie können wir jede Menge CO2 sparen und die Energiewende ordentlich voranbringen.",
     title: "Ökostrom",
   },
