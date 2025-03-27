@@ -24,16 +24,16 @@ const referals = [
     title: "Investieren",
   },
   {
+    img: "https://play-lh.googleusercontent.com/4O_Bmd1yiyTSWQPgBtV0xDY7n7Jht7ds3m1ZtT4_6MEYi7dgpjZ8JeqmMvl6rgu1Blc",
+    link: "https://de.scalable.capital/einladung/br7kc2",
+    text: "Starten Sie jetzt und definieren Sie Ihre finanzielle Zukunft neu: 2,5 % Zinsen p.a.*, Trading-Flatrate & Sparpläne ab 1 €.",
+    title: "Neo-Broker",
+  },
+  {
     img: "https://m.media-amazon.com/images/S/stores-image-uploads-eu-prod/6/AmazonStores/A1PA6795UKMFR9/5f9dd41acffb53b37be84b98a3998469.w4011.h3715.png",
     link: "https://prz.io/KrOaq9rsY",
     text: "Effektive Mundpflege & modernes Design von happybrush. 20% auf deinen ersten Einkauf. Nachhaltige elektrische Schallzahnbürsten und Vegane Zahnpasta.",
     title: "Zahnpflege",
-  },
-  {
-    img: "https://play-lh.googleusercontent.com/mYaCLnYqJ0-vm1Jxuf1YdRc0JG7ZJ-dvx1tcWAIKEHcp_HORniqBqthRd8a1QQzMFVU",
-    link: "https://www.aok.de/pk/nordost/mwm/da99334ef0f649344ab0d60108703f4d/",
-    text: "Meine Krankenkasse die AOK Nordost hat viele Zusatzleistungen. Ich empfehle dir deshalb einen Wechsel, den du ganz einfach und schnell online machen kannst.",
-    title: "Krankenversicherung",
   },
   {
     img: "https://play-lh.googleusercontent.com/0vpq7Mu6ZEloYsC6kJFJRRHidRQzZf9loRcOcBh03GT2DNQiX_Z-uS9tyYuaHZIDKCI",
